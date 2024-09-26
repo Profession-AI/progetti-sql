@@ -67,3 +67,5 @@ Per costruire la tabella finale, sarà necessario eseguire una serie di **join**
 
 Gli indicatori comportamentali verranno calcolati utilizzando operazioni di aggregazione (`SUM`, `COUNT`) per ottenere i totali richiesti.
 
+# Modalità di consegna: script SQL
+
